@@ -2,4 +2,4 @@
 
 # What is that I am practicing?
 
-I am going to learn TDD for a Node JS application written in ES6 and add type checking features to using flow.
+I am going to learn TDD for a Node JS application written in ES6 and add type checking features to it using flow.
